@@ -1,0 +1,29 @@
+﻿<xapCache source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\Bin\Debug\ShareToAll_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="24.4.2014 15:26:02">
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\obj\Debug\ShareToAll.dll" archivePath="ShareToAll.dll" lastWriteTime="24.4.2014 15:26:00" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="23.4.2014 17:20:26" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="24.4.2014 15:17:17" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="24.4.2014 15:08:48" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="24.4.2014 15:08:48" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="24.4.2014 15:08:48" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\Facebook.dll" archivePath="dlls\Facebook.dll" lastWriteTime="23.4.2014 17:44:42" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\Hammock.WindowsPhone.Mango.dll" archivePath="dlls\Hammock.WindowsPhone.Mango.dll" lastWriteTime="23.4.2014 18:26:42" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\ICSharpCode.SharpZipLib.WindowsPhone.dll" archivePath="dlls\ICSharpCode.SharpZipLib.WindowsPhone.dll" lastWriteTime="23.4.2014 18:26:42" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\Microsoft.Phone.Controls.Toolkit.dll" archivePath="dlls\Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="23.4.2014 17:39:18" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\Newtonsoft.Json.dll" archivePath="dlls\Newtonsoft.Json.dll" lastWriteTime="23.4.2014 19:26:00" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\TweetSharp.WindowsPhone.Mango.dll" archivePath="dlls\TweetSharp.WindowsPhone.Mango.dll" lastWriteTime="23.4.2014 18:26:42" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\images\back1.jpg" archivePath="images\back1.jpg" lastWriteTime="24.4.2014 13:44:23" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\images\cancel.png" archivePath="images\cancel.png" lastWriteTime="23.4.2014 18:48:30" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\images\ok.png" archivePath="images\ok.png" lastWriteTime="23.4.2014 18:48:20" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\images\user_icon.png" archivePath="images\user_icon.png" lastWriteTime="23.4.2014 19:47:52" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="24.4.2014 15:26:02" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="24.4.2014 15:08:36" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="24.4.2014 15:08:48" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\Facebook.dll" archivePath="Facebook.dll" lastWriteTime="23.4.2014 17:44:42" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\Hammock.WindowsPhone.Mango.dll" archivePath="Hammock.WindowsPhone.Mango.dll" lastWriteTime="23.4.2014 18:26:42" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\ICSharpCode.SharpZipLib.WindowsPhone.dll" archivePath="ICSharpCode.SharpZipLib.WindowsPhone.dll" lastWriteTime="23.4.2014 18:26:42" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="3.3.2013 18:40:38" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="23.4.2014 17:39:18" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="23.4.2014 19:26:00" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\dlls\TweetSharp.WindowsPhone.Mango.dll" archivePath="TweetSharp.WindowsPhone.Mango.dll" lastWriteTime="23.4.2014 18:26:42" />
+  <file source="C:\Users\semak\Desktop\ShareToAll\ShareToAll\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="24.4.2014 15:26:02" />
+</xapCache>
