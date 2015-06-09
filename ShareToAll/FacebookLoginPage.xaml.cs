@@ -14,7 +14,7 @@ namespace ShareToAll
     public partial class FacebookLoginPage : PhoneApplicationPage
     {
         private const string AppId = "1419648711631169";
-        private const string ExtendedPermissions = "user_about_me,read_stream,publish_stream";
+        private const string ExtendedPermissions = "user_about_me,read_stream,publish_actions";
         string _post;
 
         private readonly FacebookClient _fb = new FacebookClient();
